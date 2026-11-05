@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "owner": "yosayss",
+  "timezone": "Asia/Shanghai",
+  "discoverOwners": [{"login": "KKKKhazix", "publicOnly": true, "excludeForks": true}],
+  "repositories": [
+    "KKKKhazix/agent-autoloop",
+    "KKKKhazix/khazix-skills",
+    "KKKKhazix/AIHOT",
+    "KKKKhazix/human-writing",
+    "morluto/rea"
+  ],
+  "focus": ["releases", "important-features", "critical-fixes", "breaking-changes", "windows-support", "installation-changes"],
+  "upstreamMode": "read-only",
+  "reportLanguage": "zh-CN",
+  "autoInstall": false,
+  "autoMerge": false
+}
